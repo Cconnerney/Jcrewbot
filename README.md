@@ -11,8 +11,3 @@ Chatbot:
 * Index: Create embeddings and store in a vectorstore. 
 * Chat: Load vectorstore, set up langchain, run streamlit app
 
-
-### Chat.py command
-```
-streamlit run Chat.py
-```
